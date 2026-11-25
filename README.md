@@ -34,7 +34,7 @@ Stop the program.
 
 # DIAGRAMS:
 USECASE DIAGRAM:
-<img width="1175" height="736" alt="Screenshot 2026-11-25 133556" src="https://github.com/user-attachments/assets/6206d2b7-9c9d-4220-a538-2c01783fcb5b" />
+<img width="906" height="666" alt="image" src="https://github.com/user-attachments/assets/5d93a604-1618-4f87-bb7b-21fb89abf7db" />
 
 SEQUENTIAL DIAGRAM:
 <img width="748" height="695" alt="Screenshot 2026-11-25 134301" src="https://github.com/user-attachments/assets/856bd8b1-a2f9-4875-ad7b-d3114453f580" />
